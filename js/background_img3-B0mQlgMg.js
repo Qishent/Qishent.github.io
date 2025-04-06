@@ -1,0 +1,1 @@
+const g="/img/background_img3-D_H3-qxr.jpg";export{g as default};
